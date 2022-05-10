@@ -58,7 +58,7 @@
                                         <div class="payment-qr-component__container--address">
                                             <div class="payment-address-component">
                                                 <p>Address</p>
-                                                <div content-editable=true class="payment-address">
+                                                <div content-editable="true" class="payment-address">
                                                     <t t-esc="adapay_address"/>
                                                     <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAALBJREFUeNpidHdzY0ACxUDcDsSsDLjBfyCew4ImmAnEsUC8E49GaSC+DNOoD8SCQHwFiJmA2ABN8VMgvo3EZwRpnAHEwVBJECjHYosSENcDcT9MAKQxBYg1gPgOHuf5A3EHskaQs5iB+A0DfvARiDmRBZgYyASjGrEDFjhBAtgMxNpAfIZUjbVAzAvEZ0EavwKxBRCfwKPBEIjfAvEFZPfmA/EqqEm4wHMgjkMWAAgwANM3GpISwCz8AAAAAElFTkSuQmCC" alt="copy"/>
                                                 </div>
